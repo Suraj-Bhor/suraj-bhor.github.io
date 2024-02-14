@@ -7,26 +7,18 @@ subtitle: Master's student @University of Tübingen | RA @MPI-IS Perceiving Syst
 profile:
   align: right
   image: prof_pic.jpg
-<<<<<<< HEAD
-  image_circular: False  # crops the image to make it circular
-  address: >
-     Max Planck Ring 4 
-     Tübingen, Germany 72076
-     suraj.bhor@tuebingen.mpg.de
-
-=======
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><Max Planck Ring 4/p>
     <p>Tübingen, Germany 72076</p>
     <p>suraj.bhor@tuebingen.mpg.de</p>
->>>>>>> c49b00c4 (Resolve merge conflicts)
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi! I am a second year master's student at the [University of Tübingen](https://uni-tuebingen.de/) , studying Quantitative Data Science and Machine Learning with a focus in Econometrics and Psychometrics.
+
+Hi! I am a second year master's student at the [University of Tübingen](https://uni-tuebingen.de/) , studying Quantitative Data Science Methods with a specialization in Machine Learning.
 
 I am currently working part-time as a Research Assistant at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/) at the [Perceiving Systems department](https://ps.is.mpg.de/) headed by [Dr. Michael Black](https://ps.is.mpg.de/person/black).
 My research work here focuses on using combination of computer vision, machine learning and computer graphics to learn digital humans that can perceive, learn and act in virtual 3D worlds.\
