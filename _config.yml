@@ -139,6 +139,7 @@ blog_nav_title: Blog # your blog must have a title for it to be displayed in the
 blog_description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A collection of thoughts, ideas, and notes on various topics.
 permalink: /blog/:year/:title/
+lsi: true # produce an index for related posts
 
 # Pagination
 pagination:
