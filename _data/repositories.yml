@@ -1,6 +1,8 @@
 github_users:
   - Suraj-Bhor
 
+repo_description_lines_max: 2
+
 github_repos:
   - Suraj-Bhor/Sentiment-Analysis
   - Suraj-Bhor/CartPole
